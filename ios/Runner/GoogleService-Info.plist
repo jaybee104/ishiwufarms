@@ -7,7 +7,7 @@
 	<key>REVERSED_CLIENT_ID</key>
 	<string>com.googleusercontent.apps.665117788620-1pek3uqqkrbkvhnh56q1fsj2jnfoke7g</string>
 	<key>API_KEY</key>
-	<string>AIzaSyA4PselrwlkeuvS7x5t7SQ1Z_kNzGP01ns</string>
+	<string>[FIREBASE_API_KEY]</string>
 	<key>GCM_SENDER_ID</key>
 	<string>665117788620</string>
 	<key>PLIST_VERSION</key>
@@ -15,9 +15,9 @@
 	<key>BUNDLE_ID</key>
 	<string>com.example.ishiwufarms</string>
 	<key>PROJECT_ID</key>
-	<string>ememediks</string>
+	<string>[FIREBASE_PROJECT_NAME]</string>
 	<key>STORAGE_BUCKET</key>
-	<string>ememediks.appspot.com</string>
+	<string>[FIREBASE_PROJECT_NAME]</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
